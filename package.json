@@ -20,5 +20,8 @@
     "gulp": "^3.6.0",
     "gulp-es6-module-transpiler": "^0.1.0",
     "gulp-rename": "^1.2.0"
+  },
+  "dependencies": {
+    "es6-promise": "^0.1.1"
   }
 }
