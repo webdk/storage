@@ -1,0 +1,24 @@
+{
+  "name": "webdk-storage",
+  "version": "0.0.1",
+  "description": "Storage Module for webdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webdk/storage.git"
+  },
+  "author": "potch",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/webdk/storage/issues"
+  },
+  "homepage": "https://github.com/webdk/storage",
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-es6-module-transpiler": "^0.1.0",
+    "gulp-rename": "^1.2.0"
+  }
+}
